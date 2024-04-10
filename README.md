@@ -27,5 +27,3 @@ https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 ## 4. Features
 Kaggle provides a data dictionary detailing all of the features of the dataset. You can view this data dictionary on Google Sheets:
 https://docs.google.com/spreadsheets/d/16XdrpMWuITqXuyDHgUt3pBnChWM4M0mo/edit?usp=sharing&ouid=109881050709779521166&rtpof=true&sd=truen.
-
-**Additional Note:** This project was done with the help of a machine learning tutorial found at https://zerotomastery.io/
